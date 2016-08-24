@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitExampleApplication</string>
+    <string name="hello_world">Hello Ritika</string>
 </resources>
